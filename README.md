@@ -19,9 +19,9 @@ Customers were split into three groups — active, at-risk, and churned — base
 
 Two decision rules uncovered the real drivers: a product was flagged as having a **price issue** if its price had increased more than 15% from its starting price, and a **quality issue** if its return rate exceeded 10%. Running these against the customer segments showed quality problems were the dominant driver, not price — 451 products had quality issues among at-risk customers versus 210 with price issues, and the gap widened further for churned customers (545 quality-flagged products vs. 188 price-flagged).
 
-![Quality vs Price Issues](quality-vs-price-chart.png)
-
 Among VIP customers specifically, 636 products carried quality risk, and 32 products hit both flags at once — "Double Trouble" products that were overpriced *and* underdelivering, the worst possible combination for retention.
+
+![Quality vs Price Issues](quality-vs-price-chart.png)
 
 Zooming out, the churned customer base wasn't evenly distributed — a small segment, roughly 26% of customers, was responsible for 80% of total revenue. The segment breakdown below shows this concentration clearly: a small high-value group drives a disproportionate share of revenue, meaning the business's real retention priority isn't "stop all churn equally," it's protecting that concentrated, high-value group first.
 
