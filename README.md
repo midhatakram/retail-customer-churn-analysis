@@ -2,8 +2,8 @@
 
 SQL + Power BI analysis of 4,338 retail customers, identifying churn drivers, revenue concentration, and product quality risk.
 
-![KPI Overview](kpi-cards.png)
-![Customer Status Distribution](classification-chart.png)
+![KPI Overview](screenshots/kpi-cards.png)
+![Customer Status Distribution](screenshots/classification-chart.png)
 
 ## The Business Question
 
@@ -21,11 +21,11 @@ Two decision rules uncovered the real drivers: a product was flagged as having a
 
 Among VIP customers specifically, 636 products carried quality risk, and 32 products hit both flags at once — "Double Trouble" products that were overpriced *and* underdelivering, the worst possible combination for retention.
 
-![Quality vs Price Issues](quality-vs-price-chart.png)
+![Quality vs Price Issues](screenshots/quality-vs-price-chart.png)
 
 Zooming out, the churned customer base wasn't evenly distributed — a small segment, roughly 26% of customers, was responsible for 80% of total revenue. The segment breakdown below shows this concentration clearly: a small high-value group drives a disproportionate share of revenue, meaning the business's real retention priority isn't "stop all churn equally," it's protecting that concentrated, high-value group first.
 
-![Revenue by Customer Segment](revenue-segment-chart.png)
+![Revenue by Customer Segment](screenshots/revenue-segment-chart.png)
 
 ## The Catch
 
